@@ -6,7 +6,7 @@ export default function Child (props)
     return(
         <div>
             <p>my name is {props.na}</p>
-            <p>my name is {props.age}</p>
+            <p>my age is {props.age}</p>
         </div>
     )
 }
